@@ -3,8 +3,8 @@ I am Teki :d, young student-enthusiast (non-juniour martyr in other words). I re
 
 ### ✍️ Unremarkable Skills
 * Java & JavaFX
-* C & C++
-* HTML, CSS & JavaScript
+* C++
+* HTML, CSS
 * Pixel Art
 * Music Composition
 
