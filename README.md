@@ -1,5 +1,12 @@
 ## HI SUNSHINES :3
 I am Teki :D, young student-enthusiast. I really like creative endeavour!
+
+## Skills
+* Java & JavaFX
+* C & C++
+* HTML, CSS & JavaScript
+
+
 <!--
 **Tekisho/Tekisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
