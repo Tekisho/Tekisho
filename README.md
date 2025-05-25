@@ -1,5 +1,5 @@
-## HI SUNSHINES!
-
+## HI SUNSHINES :3
+I am Teki :D, young student-enthusiast. I really like creative endeavour!
 <!--
 **Tekisho/Tekisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
