@@ -1,7 +1,7 @@
 ## HI SUNSHINES :3
 I am Teki :D, young student-enthusiast (non-juniour martyr in other words). I really like creative endeavour!
 
-## Unremarkable Skills
+## ✍️ Unremarkable Skills
 * Java & JavaFX
 * C & C++
 * HTML, CSS & JavaScript
