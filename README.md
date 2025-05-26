@@ -5,6 +5,7 @@ I am Teki :d, young student-enthusiast (non-juniour martyr in other words). I re
 * Java & JavaFX
 * C++
 * HTML, CSS
+* SQL
 * Pixel Art
 * Music Composition
 
