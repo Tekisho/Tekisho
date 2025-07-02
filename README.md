@@ -1,5 +1,5 @@
-# HI SUNSHINES :3
-I am Teki :d, young student-enthusiast (non-juniour martyr in other words). I really like creative endeavour!
+<h1 align="center">HI SUNSHINES</h1>
+<h3>I am Teki :d, young student-enthusiast (non-juniour martyr in other words). I really like creative endeavour!</h3>
 
 ### ✍️ Unremarkable Skills
 * Java & JavaFX
