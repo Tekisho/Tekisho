@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">HI :3</h1>
+<h3 align="center">I am Tekisho, student-enthusiast</h3>
 
 <!--
 **Tekisho/Tekisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
